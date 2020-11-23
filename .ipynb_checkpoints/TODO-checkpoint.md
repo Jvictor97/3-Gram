@@ -9,8 +9,8 @@
 
 # Análise e Discussão
 
-- [ ] Fazer perplexidade por sentença
-- [ ] Histograma de perplexidades
+- [x] Fazer perplexidade por sentença
+- [x] Histograma de perplexidades
 - [ ] Frases com menor/maior perplexidade 
 - [ ] Discutir o resultado
 
