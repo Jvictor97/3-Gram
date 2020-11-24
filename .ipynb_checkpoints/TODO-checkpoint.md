@@ -11,6 +11,7 @@
 
 - [x] Fazer perplexidade por sentença
 - [x] Histograma de perplexidades
+- [ ] Plotar a perplexidade pelo comprimento da sentença
 - [ ] Frases com menor/maior perplexidade 
 - [ ] Discutir o resultado
 
